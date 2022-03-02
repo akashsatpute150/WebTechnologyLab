@@ -1,0 +1,28 @@
+employee {
+     color: white;
+     background-color : gray;
+     width: 100%;
+     text-align: center;
+     border:1px solid black;
+}
+ heading {
+     color:red;
+     font-size : 40px;
+     background-color : powderblue;
+      
+}
+ heading, title, author, age {
+     display : block;
+     
+}
+ title {
+     font-size : 25px;
+     font-weight : bold;
+      
+    
+}
+book{
+padding :5px;
+margin :10px;
+
+}
